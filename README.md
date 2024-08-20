@@ -13,6 +13,10 @@ The script performs the following tasks:
 - Traces the path of a specific point on the door.
 - Visualizes the motion of the garage door mechanism in real-time.
 
+## Team Presentation Video
+
+[![Garage Door Mechanism Simulation](https://img.youtube.com/vi/KqLCm0z6iWE/0.jpg)](https://youtu.be/KqLCm0z6iWE)
+
 ## Parameters
 
 The following parameters are defined in the script:
@@ -34,3 +38,4 @@ The script generates a real-time plot showing the motion of the garage door mech
 1. **MATLAB Installation**: Ensure you have MATLAB installed on your computer.
 2. **Run the Script**: Open the script in MATLAB and run it. The motion of the garage door mechanism will be displayed in a figure window.
 3. **Modify Parameters**: You can modify the parameters (e.g., link lengths, angles) to see how they affect the motion of the mechanism.
+
